@@ -1,0 +1,16 @@
+numpy
+matplotlib
+wheel
+setuptools
+ipython
+pandas
+jupyter
+tensorflow
+scipy
+keras
+scikit-learn
+xgboost
+seaborn
+psutils
+featuretools
+
