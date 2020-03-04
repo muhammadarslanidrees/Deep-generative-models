@@ -1,4 +1,4 @@
-# Deep generative models to counter class imbalance: aguided model selection strategy
+# Deep generative models to counter class imbalance: a guided model selection strategy
 Code Base By - (k173004 FAST NUCES Karachi).
 
 ## Datasets:
