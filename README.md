@@ -15,4 +15,3 @@ The experiments on each of the three datasetsare  categorized  into  3  types:  
 ## Preprint: 
 https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy
 
-Code Base By - (k173004 FAST NUCES Karachi).
